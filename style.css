@@ -1,0 +1,15 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    display: flex;
+    margin: 0 auto;
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
